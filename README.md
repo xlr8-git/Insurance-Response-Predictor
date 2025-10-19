@@ -27,7 +27,7 @@ The project uses a dataset containing 381,109 records with the following feature
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Insurance-Response-Predictor.git
+   git clone https://github.com/xlr8-git/Insurance-Response-Predictor.git
    cd Insurance-Response-Predictor
    ```
 
