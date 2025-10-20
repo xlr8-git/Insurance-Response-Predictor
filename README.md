@@ -29,6 +29,11 @@ The project uses a dataset containing 381,109 records with the following feature
    ```bash
    git clone https://github.com/xlr8-git/Insurance-Response-Predictor.git
    cd Insurance-Response-Predictor
+   python -m venv venv
+   # Activate virtual environment
+   source venv/bin/activate   # Linux/Mac
+   venv\Scripts\activate      # Windows
+   
    ```
 
 2. **Install dependencies**
